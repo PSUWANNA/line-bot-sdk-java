@@ -17,5 +17,5 @@
 apply plugin: 'org.springframework.boot'
 
 dependencies {
-    compile project(':line-bot-spring-boot')
+    compile project(':line-bot-spring-to: Athens-SR1')
 }
